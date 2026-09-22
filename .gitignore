@@ -1,0 +1,12 @@
+# 공개 제외 (원본 작업 폴더에서 실수로 복사되는 것 방지)
+slides/speaker-notes.json
+slides/슬라이드맵.json
+검토/
+
+# OS·도구 캐시
+.DS_Store
+__pycache__/
+*.pyc
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
